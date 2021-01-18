@@ -11,7 +11,7 @@ int main() {
   Bike bike("Yoann");
 
   // Second student must give a name to bike2
-  Bike bike2("");
+  Bike bike2("Xavier");
 
   // Third student (if any) must give a name to bike3
   Bike bike3("");
